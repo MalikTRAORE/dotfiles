@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = traore.malik7@gmail.com
+	name = Malik TRAORE
